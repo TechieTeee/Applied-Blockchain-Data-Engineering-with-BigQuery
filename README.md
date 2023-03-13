@@ -5,4 +5,4 @@
 Data Engineering Applied to Public Crypto Datasets Using GCP Tools Including Pub/Sub, Dataflow and BigQuery
 - Pub/Sub: Ingestion
 - DataFlow: Pipeline
-- BigQuery Analytics
+- BigQuery: Data Warehouse & Analytics
